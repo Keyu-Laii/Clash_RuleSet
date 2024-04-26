@@ -1,7 +1,8 @@
 # AppleNews
-DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,virtualracingschool.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,akamai.net
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,iracing.com
+DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
