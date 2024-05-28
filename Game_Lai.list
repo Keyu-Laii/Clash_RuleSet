@@ -1,7 +1,10 @@
 # Game
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN,fresnel.vimeocdn.com
+DOMAIN,skyfire.vimeocdn.com
+DOMAIN,i.vimeocdn.com
+DOMAIN,f.vimeocdn.com
 DOMAIN-SUFFIX,virtualracingschool.com
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,iracing.com
